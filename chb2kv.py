@@ -10,7 +10,10 @@ if regstring == "begin":
 	varbegin = True
 	regfunc(regstring)
 	print "begin %s" % ()
+	#automatic function production --  check lympha
 elif regstring == "end":
 	varbegin = False
+	#summarize 
+	#vardic extend
 
 vardic={name:value}

@@ -1,0 +1,5 @@
+begin{name}
+title{title}
+question{question}
+answer{aswer A}[+1]
+end

@@ -9,6 +9,7 @@ def regfunc(string):
 if regstring == "begin":
 	varbegin = True
 	regfunc(regstring)
+	print "begin %s" % ()
 elif regstring == "end":
 	varbegin = False
 
